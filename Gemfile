@@ -29,3 +29,6 @@ source 'https://rubygems.org'
  gem 'turbolinks'
  # Twitter Bootstratp
  gem 'bootstrap-sass'
+ # Devise
+ gem 'devise'
+ gem 'figaro'
